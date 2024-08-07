@@ -1,0 +1,1 @@
+En “Uploads”, te enfrentarás a un escenario en el que un sitio web permite la subida de archivos sin aplicar los filtros de seguridad adecuados. Esta mala configuración puede ser explotada para subir una webshell, una herramienta que permite la ejecución remota de comandos en el servidor afectado.
