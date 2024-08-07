@@ -1,1 +1,1 @@
-
+Surveillance es una máquina virtual creada por HTB que simula un sistema de vigilancia empresarial. Su objetivo es obtener acceso al sistema como usuario root y capturar una bandera específica. El desafío presenta una serie de vulnerabilidades que exigen un conocimiento profundo de técnicas de hacking, desde el reconocimiento inicial hasta la explotación final.
