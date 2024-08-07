@@ -1,0 +1,1 @@
+Trust es una máquina virtual creada por DockerLabs.es que simula un servidor web vulnerable. El objetivo principal es obtener acceso al sistema como usuario root. Este desafío te sumergirá en un entorno realista de hacking, donde deberás aplicar tus conocimientos para identificar y explotar vulnerabilidades.
