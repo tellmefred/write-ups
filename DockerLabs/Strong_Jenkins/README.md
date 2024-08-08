@@ -1,0 +1,1 @@
+¡Bienvenidos a “Strong Jenkins”, una desafiante máquina de práctica de la plataforma DockerLabs! En este entorno de hacking ético, explorarás cómo comprometer la seguridad de un servicio Jenkins a través de un ataque dirigido a su web login utilizando el intruder de Burp Suite.
