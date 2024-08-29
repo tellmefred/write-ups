@@ -1,0 +1,1 @@
+En este desafiante entorno, explorarás cómo una configuración incorrecta del servicio FTP, comúnmente ejecutado en el puerto 21, puede llevar a vulnerabilidades que podrían ser explotadas por hackers maliciosos. El servicio FTP es esencial para la transferencia de archivos, pero una configuración descuidada puede abrir puertas a intrusiones no deseadas.

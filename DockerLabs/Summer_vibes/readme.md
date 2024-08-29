@@ -1,0 +1,1 @@
+¡Bienvenidos a “Summer Vibes”, una emocionante máquina de práctica ofrecida por DockerLabs! En esta aventura, los participantes se sumergirán en un entorno hacking realista que abarca el fuzzing web y el ataque por fuerza bruta a un panel de login en una aplicación web.
